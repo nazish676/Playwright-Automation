@@ -1,0 +1,9 @@
+[
+  'Product Name', 'Category',
+  'Price',        'Stock',
+  'Status',       '#',
+  'Name',         'Role',
+  'Action',       'Name',
+  'Disk (MB/s)',  'Network (Mbps)',
+  'Memory (MB)',  'CPU (%)'
+]

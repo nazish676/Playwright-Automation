@@ -1,0 +1,12 @@
+[
+  'Internet Explorer', '0.2 Mbps',
+  '0.51 MB/s',         '41.2 MB',
+  '0.5%',              'Firefox',
+  '8.9 Mbps',          '0.61 MB/s',
+  '93.4 MB',           '8.2%',
+  'Chrome',            '8.0 Mbps',
+  '0.97 MB/s',         '67.0 MB',
+  '5.6%',              'System',
+  '5.1 Mbps',          '0.53 MB/s',
+  '81.0 MB',           '1.7%'
+]

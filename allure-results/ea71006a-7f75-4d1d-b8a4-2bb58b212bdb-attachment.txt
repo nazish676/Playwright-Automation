@@ -1,0 +1,5 @@
+Row 1: [ 'Laptop', 'Electronics', '$999', '15', 'In Stock' ]
+Row 2: [ 'Mouse', 'Electronics', '$29', '50', 'In Stock' ]
+Row 3: [ 'Keyboard', 'Electronics', '$79', '0', 'Out of Stock' ]
+Row 4: [ 'Monitor', 'Electronics', '$349', '8', 'In Stock' ]
+Particular row: [ 'Mouse', 'Electronics', '$29', '50', 'In Stock' ]

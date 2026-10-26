@@ -1,0 +1,18 @@
+[
+  'Laptop',      'Electronics',       '$999',
+  '15',          'In Stock',          'Mouse',
+  'Electronics', '$29',               '50',
+  'In Stock',    'Keyboard',          'Electronics',
+  '$79',         '0',                 'Out of Stock',
+  'Monitor',     'Electronics',       '$349',
+  '8',           'In Stock',          '1',
+  'Alice',       'Engineer',          'Delete',
+  '2',           'Bob',               'Designer',
+  'Delete',      'System',            '55.5 MB',
+  '0.40 MB/s',   '8.8%',              '9.5 Mbps',
+  'Firefox',     '58.2 MB',           '0.71 MB/s',
+  '7.1%',        '1.8 Mbps',          'Chrome',
+  '55.5 MB',     '0.65 MB/s',         '6.7%',
+  '7.4 Mbps',    'Internet Explorer', '90.8 MB',
+  '0.03 MB/s',   '4.5%',              '0.3 Mbps'
+]

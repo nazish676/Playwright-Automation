@@ -1,0 +1,34 @@
+[
+  '\n' +
+    '          \n' +
+    '            \n' +
+    '              #\n' +
+    '              Name\n' +
+    '              Role\n' +
+    '              Action\n' +
+    '            \n' +
+    '          \n' +
+    '          \n' +
+    '            \n' +
+    '              1\n' +
+    '              Alice\n' +
+    '              Engineer\n' +
+    '              \n' +
+    '                \n' +
+    '                  Delete\n' +
+    '                \n' +
+    '              \n' +
+    '            \n' +
+    '            \n' +
+    '              2\n' +
+    '              Bob\n' +
+    '              Designer\n' +
+    '              \n' +
+    '                \n' +
+    '                  Delete\n' +
+    '                \n' +
+    '              \n' +
+    '            \n' +
+    '          \n' +
+    '        '
+]

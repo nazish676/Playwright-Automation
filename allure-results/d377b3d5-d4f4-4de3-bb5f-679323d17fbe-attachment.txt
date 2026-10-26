@@ -1,0 +1,8 @@
+in the block
+[]
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 12461,
+  [Symbol(trigger_async_id_symbol)]: 12107,
+  [Symbol(kResourceStore)]: undefined
+}

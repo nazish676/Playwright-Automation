@@ -1,0 +1,12 @@
+[
+  'Laptop',       'Electronics',
+  '$999',         '15',
+  'In Stock',     'Mouse',
+  'Electronics',  '$29',
+  '50',           'In Stock',
+  'Keyboard',     'Electronics',
+  '$79',          '0',
+  'Out of Stock', 'Monitor',
+  'Electronics',  '$349',
+  '8',            'In Stock'
+]

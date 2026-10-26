@@ -1,0 +1,38 @@
+[
+  '\n' +
+    '              Laptop\n' +
+    '              Electronics\n' +
+    '              $999\n' +
+    '              15\n' +
+    '              \n' +
+    '                In Stock\n' +
+    '              \n' +
+    '            ',
+  '\n' +
+    '              Mouse\n' +
+    '              Electronics\n' +
+    '              $29\n' +
+    '              50\n' +
+    '              \n' +
+    '                In Stock\n' +
+    '              \n' +
+    '            ',
+  '\n' +
+    '              Keyboard\n' +
+    '              Electronics\n' +
+    '              $79\n' +
+    '              0\n' +
+    '              \n' +
+    '                Out of Stock\n' +
+    '              \n' +
+    '            ',
+  '\n' +
+    '              Monitor\n' +
+    '              Electronics\n' +
+    '              $349\n' +
+    '              8\n' +
+    '              \n' +
+    '                In Stock\n' +
+    '              \n' +
+    '            '
+]

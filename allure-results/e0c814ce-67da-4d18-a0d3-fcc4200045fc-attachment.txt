@@ -1,0 +1,3 @@
+Options in the dropdown: [ 'Apple', 'Banana', 'Mango', 'Orange' ]
+Original list: [ 'Apple', 'Banana', 'Mango', 'Orange' ]
+Sorted list: [ 'Apple', 'Banana', 'Mango', 'Orange' ]
