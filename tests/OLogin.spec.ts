@@ -20,6 +20,6 @@ await loginverifypage.LoginPage();
 // addmin=new addAdmin(page);
 // await addmin.Adminpage();
 
-await expect(page).to
+await expect(page).toHaveURL(config.appUrl2);
 
 })

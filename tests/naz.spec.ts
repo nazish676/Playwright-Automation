@@ -20,6 +20,7 @@ test('loginRahul page',async({ page }) => {
         options.selectOption('USA')
     }
     await page.pause();
-
+    
+console.log("adding git");
 
 });
